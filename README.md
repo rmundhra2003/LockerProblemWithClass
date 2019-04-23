@@ -7,7 +7,6 @@
  * Program prints out the locker numbers that remain open.
  * What do you notice about the lockers that remain open?
  * All the squares i.e. 1, 4, 9, 16, 25, 36, 49, 64, 81, 100 remain open hence it follows a pattern
- */
-
+ 
 
 " 
