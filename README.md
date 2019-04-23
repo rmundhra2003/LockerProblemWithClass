@@ -1,5 +1,4 @@
 "#LockerProblemWithClass
-/*
  * Program to simulate the following experiment. You have 100 closed lockers.
  * Start with the first locker and for every locker open it. Now, starting with the second locker, for this locker and
  * every second locker after that, if the locker is open, close it; if it is closed, open it. Then, starting with the
